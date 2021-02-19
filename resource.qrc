@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/loginform.qml</file>
+        <file>image/loginclose1.png</file>
+        <file>image/loginclose2.png</file>
+        <file>image/newyear.png</file>
+        <file>image/loading.png</file>
+        <file>qml/mainform.qml</file>
+        <file>image/head.jpg</file>
+        <file>qml/components/ImageButton.qml</file>
+        <file>qml/components/qmldir</file>
+        <file>image/huihua.png</file>
+        <file>image/huihua1.png</file>
+        <file>qml/components/LeftSelectRect.qml</file>
+        <file>image/friend.png</file>
+        <file>image/friend1.png</file>
+        <file>qml/components/Huihua.qml</file>
+        <file>qml/components/HuihuaSearch.qml</file>
+        <file>qml/components/HuihuaItem.qml</file>
+        <file>qml/mainleftform.qml</file>
+        <file>qml/mainhuihuaform.qml</file>
+        <file>qml/mainwicketform.qml</file>
+        <file>image/close1.png</file>
+        <file>image/close2.png</file>
+        <file>qml/components/ColorButtom.qml</file>
+        <file>image/zuixiaohua1.png</file>
+        <file>image/zuixiaohua2.png</file>
+        <file>qml/components/MyLabel.qml</file>
+        <file>qml/components/MyLabel.qmlc</file>
+        <file>qml/components/WindowTopWidget.qml</file>
+        <file>qml/imageQQuickWidget.qml</file>
+    </qresource>
+</RCC>

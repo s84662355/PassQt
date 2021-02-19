@@ -1,0 +1,8 @@
+module components
+
+ImageButton 1.0 ImageButton.qml
+LeftSelectRect 1.0 LeftSelectRect.qml
+HuihuaSearch 1.0 HuihuaSearch.qml
+Huihua 1.0 Huihua.qml
+ColorButton 1.0 ColorButton.qml
+WindowTopWidget 1.0 WindowTopWidget.qml
